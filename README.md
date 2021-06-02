@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malav-parikh
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Basics of python for DS, Data Structures and Algorithms, R programming
+- 🌱 I’m currently learning Basics of python for OOP, Data Structures and Algorithms
 - 📫 How to reach me malav18893.mp@gmail.com
 
 - More about me
