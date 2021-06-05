@@ -5,7 +5,7 @@
 
 - More about me
 
-"I am Monash University, Melbourne postgraduate student pursuing my Masters in Business Information Systems.
+"I am a postgraduate student pursuing my Masters in Business Information Systems at Monash University, Melbourne.
 I will be graduating in July 2021 and I am looking forward to work in IT industry.
 I have 4+ years of experience of successfully running a FMCG business being distributors of Mondelez, Johnson & Johnson, Unilever and Reckitt Benckiser.
 Started a company of Indian food products for Indian and overseas market which is running successfully currently.
