@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Basics of python for OOP, Data Structures and Algorithms
 - 📫 How to reach me malav18893.mp@gmail.com
+- LinkedIn:https://www.linkedin.com/in/malav-parikh/ 
 
 - More about me
 
